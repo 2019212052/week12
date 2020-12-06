@@ -1,0 +1,51 @@
+.text1
+{
+    font-size: 100px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: #262626;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.text2
+{
+    font-size: 50px;
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    color: #262626;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 520px;
+    height: 400px;
+    position: absolute;
+    top: 27%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: left;
+}
+
+.aeiou
+{
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 1280px;
+    height: 720px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
